@@ -5,7 +5,7 @@ Matteo Visconti di Oleggio Castello & Manon de Villemejane
 ------
 This repository contains a jupyter notebook with a quick tutorial on how to use [`dipy`](http://www.nipy.org/dipy) to perform tractography on diffusion weighted imaging.
 
-We presented this tutorial during the 2017 Psychological & Brain Science "Day of Graduate Research Roundtable" at Dartmouth College. It's very much an exploration, and care should be taken before using any of these methods in real research—know thy methods. However, I believe we learned a lot about the methods by messing around. We hope it will be helpful for you as well.
+We presented this tutorial during the 2017 Psychological & Brain Sciences "Day of Graduate Research Roundtable" at Dartmouth College. It's very much an exploration, and care should be taken before using any of these methods in real research—know thy methods. However, I believe we learned a lot about the methods by messing around. We hope it will be helpful for you as well.
 
 
 
